@@ -1,6 +1,6 @@
 # Santander Bootcamp 2023 - Ciências de Dados com Python
 
-Desafio de projeto do módulo "Introdução à Ciência de Dados e Python da Plataforma DIO.
+Desafio de projeto do módulo "Introdução à Ciência de Dados e Python" da Plataforma DIO.
 
 ## Principais Tecnologias
 
